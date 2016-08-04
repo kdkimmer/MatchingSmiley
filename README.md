@@ -1,1 +1,2 @@
-"# MatchingSmiley" 
+"# MatchingSmiley"
+A matching game.
